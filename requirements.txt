@@ -3,3 +3,4 @@ pylint
 psycopg2
 flask
 requests
+bs4
